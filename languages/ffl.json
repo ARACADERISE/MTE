@@ -1,0 +1,14 @@
+{
+	"name": "File Format Lang",
+	"lexer": "lexers/ffl/ffl.py",
+
+	"format": {
+		"keywords": ["Settings", "HasSig", "true", "false"],
+		"highlighting": {
+			"Settings": "red",
+			"HasSig": "yellow",
+			"true": "blue",
+			"false": "blue"
+		}
+	}
+}

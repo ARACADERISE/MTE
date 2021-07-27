@@ -1,0 +1,4 @@
+{
+	"ffl": "lexers/FFL/FFL.py",
+	"mffasm": "lexer/MFFAsm/MFFAsm.py"
+}

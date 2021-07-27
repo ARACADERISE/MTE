@@ -1,0 +1,31 @@
+{
+	"name": "MFFAsm",
+	"lexer" : "lexer/MFFAsm/mffasmlexer.py",
+
+	"format": {
+		"keywords": [
+			".target",
+			"LOCAL",
+			"LINX",
+			"WINN",	
+			".SET_STACK",
+			".block_entry",
+			".end_entry",
+			".find_local",
+			".find_global",
+			".pad_remaining"
+		],
+		"highlighting": {
+			".target": "#9400D3",
+			"LOCAL": "#FAF0BE",
+			"LINX": "#FAF0BE",
+			"WINN": "#FAF0BE",
+			".SET_STACK": "#00BFFF",
+			".block_entry": "#9932CC",
+			".end_entry": "#9932CC",
+			".find_local": "#C72C48",
+			".find_global": "#C72C48",
+			".pad_remaining": "#00BFFF"
+		}
+	}
+}
